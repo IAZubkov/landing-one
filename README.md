@@ -2,7 +2,7 @@
 
 A responsive landing page for the BOTANICA residential complex in Saint Petersburg, created as part of my frontend development practice.
 
-🔗 [Live Demo](https://izzz1989.github.io/landing-one/)
+🔗 [Live Demo](https://iazubkov.github.io/landing-one/)
 
 ## Technologies
 
